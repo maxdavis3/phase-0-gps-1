@@ -7,6 +7,6 @@ It is a good block
 Everyone likes blocks
 ```
 
-[This is a link](www.dezeen.com)
+[This is a link](http://www.dezeen.com)
 
-[This is (hopefully) an image](screenshot.png)
+![This is (hopefully) an image](screenshot.png)
